@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning all of the aspects of Full Stack Software Engineering
 - 🤔 I’m looking for help with industry level projects
 - 💬 Ask me about my current and future projects
-- 📫 How to reach me: williams_dominik@yahoo.com with the subject line "Regarding GitHub"
+- 📫 How to reach me: dumiminum@gmail.com
 - ⚡ Fun fact: A mile is 5,280 feet long and a kilometer is 3280.84 feet long.
